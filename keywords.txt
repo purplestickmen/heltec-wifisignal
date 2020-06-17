@@ -1,0 +1,2 @@
+WifiStrength  KEYWORD1
+drawSignalBar KEYWORD2
